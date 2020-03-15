@@ -1,0 +1,36 @@
+body
+{
+	background-color: pink;
+}
+
+.abc
+{
+position:absolute;
+color:red;
+top:100px;
+left:500px;
+}
+
+.def
+{
+position:absolute;
+left:500px;
+top:200px;
+color:green;
+}
+
+.ghi
+{
+position:absolute;
+left:500px;
+top:300px;
+color:black;
+}
+
+.jkl
+{
+	position: absolute;
+	left: 500px;
+	top:400px;
+	color: brown;
+}
